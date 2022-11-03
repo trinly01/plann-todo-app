@@ -1,0 +1,20 @@
+body {
+    background-color: hsl(222,100%,98%);
+    min-height: 100vh;
+    font-family: proxima-nova, sans-serif;
+    color: #04446B;
+}
+
+.br-4 {
+    border-radius: 4px !important;
+}
+
+.columns {
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: stretch !important;
+}
+
+.column {
+    width: 100%;
+}
